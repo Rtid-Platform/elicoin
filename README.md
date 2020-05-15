@@ -58,7 +58,7 @@ If you're an exchange owner and you would like to add Rtidcoin on your exchange,
 
 Link | Description
 ---- | -----------
-**http://explorer.rtid-platform** | Official Rtidcoin block explorer
+**http://explorer.rtid-platform.web.id** | Official Rtidcoin block explorer
 
 # License
 
